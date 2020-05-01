@@ -5,10 +5,13 @@ An Inventory Management system to allow a user to manage stock, customers and cu
 # How to use
 
 
-Software Required
+# Software Required
+
 Maven -- setup with correct enviroment variables
 
 Java Platform 1.8
+
+Linux, Windows Vista or Later
 
 ## Compile Instructions
 
